@@ -15,6 +15,7 @@
 ### Тестовая документация
 ![JIRA](https://img.shields.io/badge/Jira-black?with%20a%20logo-grey?style=for-the-badge&logo=Jira&logoColor=blue)
 ![YOUTRACK](https://img.shields.io/badge/YouTrack-black?with%20a%20logo-grey?style=for-the-badge&logo=youtrack)
+![QASW](https://img.shields.io/badge/Qase-black?with%20a%20logo-grey?style=for-the-badge&logo=Qaseio)
 ### Работа с данными
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-black?with%20a%20logo-grey?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
 ### Тестирование веб-приложений
@@ -27,3 +28,4 @@
 ### Работа с кодом
 ![Github](https://img.shields.io/badge/Git-black?with%20a%20logo-grey?style=for-the-badge&logo=GIT&logoColor=ORANGE)
 ### Contact me
+![Telegram](https://github.com/yanakari/yanakari/commit/71b14c7c6a98bdd219118def116f5f1b7a104fc7)
