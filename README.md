@@ -28,4 +28,4 @@
 ### Работа с кодом
 ![Github](https://img.shields.io/badge/Git-black?with%20a%20logo-grey?style=for-the-badge&logo=GIT&logoColor=ORANGE)
 ### Contact me
-![Telegram](https://github.com/yanakari/yanakari/commit/71b14c7c6a98bdd219118def116f5f1b7a104fc7)
+![Telegram](https://img.icons8.com/undefined/48/000000/undefined.png)
