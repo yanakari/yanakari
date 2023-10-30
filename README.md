@@ -27,5 +27,3 @@
 ![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-black?with%20a%20logo-grey?style=for-the-badge&logo=visual-studio&logoColor=purple)
 ### Работа с кодом
 ![Github](https://img.shields.io/badge/Git-black?with%20a%20logo-grey?style=for-the-badge&logo=GIT)
-### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-black?with%20a%20logo-grey?style=for-the-badge&logo=Telegram)](https://t.me/yanakarim)
